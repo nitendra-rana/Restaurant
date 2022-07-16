@@ -2,7 +2,7 @@
   "name": "rest-menu",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://nitendra-rana.github.io/restaurent-menu/",
+  "homepage": "https://nitendra-rana.github.io/Restaurent/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
