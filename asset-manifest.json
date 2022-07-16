@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/restaurent-menu/static/css/main.4233bf0b.css",
+    "main.js": "/restaurent-menu/static/js/main.6dafc78e.js",
+    "index.html": "/restaurent-menu/index.html",
+    "main.4233bf0b.css.map": "/restaurent-menu/static/css/main.4233bf0b.css.map",
+    "main.6dafc78e.js.map": "/restaurent-menu/static/js/main.6dafc78e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4233bf0b.css",
+    "static/js/main.6dafc78e.js"
+  ]
+}
